@@ -1,2 +1,2 @@
-# my-first-repo
-This is my repository
+# Introduction
+This project is a simple calculater for adding and multiplying two numbers.
